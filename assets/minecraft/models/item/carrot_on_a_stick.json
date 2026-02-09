@@ -1,0 +1,1212 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/carrot_on_a_stick"
+  },
+  "overrides": [
+    {
+        "predicate": { "custom_model_data": 1001},
+        "model": "minecraft:item/kanto/abra"
+    },
+    {
+        "predicate": { "custom_model_data": 1002},
+        "model": "minecraft:item/kanto/articuno"
+    },
+    {
+        "predicate": { "custom_model_data": 1003},
+        "model": "minecraft:item/kanto/bellsprout"
+    },
+    {
+        "predicate": { "custom_model_data": 1004},
+        "model": "minecraft:item/kanto/caterpie"
+    },
+    {
+        "predicate": { "custom_model_data": 1005},
+        "model": "minecraft:item/kanto/gastly"
+    },
+    {
+        "predicate": { "custom_model_data": 1006},
+        "model": "minecraft:item/kanto/geodude"
+    },
+    {
+        "predicate": { "custom_model_data": 1007},
+        "model": "minecraft:item/kanto/machop"
+    },
+    {
+        "predicate": { "custom_model_data": 1008},
+        "model": "minecraft:item/kanto/magnemite"
+    },
+    {
+        "predicate": { "custom_model_data": 1009},
+        "model": "minecraft:item/kanto/mew"
+    },
+    {
+        "predicate": { "custom_model_data": 1010},
+        "model": "minecraft:item/kanto/moltres"
+    },
+    {
+        "predicate": { "custom_model_data": 1011},
+        "model": "minecraft:item/kanto/oddish"
+    },
+    {
+        "predicate": { "custom_model_data": 1012},
+        "model": "minecraft:item/kanto/pidgey"
+    },
+    {
+        "predicate": { "custom_model_data": 1013},
+        "model": "minecraft:item/kanto/poliwag"
+    },
+    {
+        "predicate": { "custom_model_data": 1014},
+        "model": "minecraft:item/kanto/psyduck"
+    },
+    {
+        "predicate": { "custom_model_data": 1015},
+        "model": "minecraft:item/kanto/rattata"
+    },
+    {
+        "predicate": { "custom_model_data": 1016},
+        "model": "minecraft:item/kanto/sandshrew"
+    },
+    {
+        "predicate": { "custom_model_data": 1017},
+        "model": "minecraft:item/kanto/spearow"
+    },
+    {
+        "predicate": { "custom_model_data": 1018},
+        "model": "minecraft:item/kanto/weedle"
+    },
+    {
+        "predicate": { "custom_model_data": 1019},
+        "model": "minecraft:item/kanto/zapdos"
+    },
+    {
+        "predicate": { "custom_model_data": 1020},
+        "model": "minecraft:item/kanto/zubat"
+    },
+    {
+        "predicate": { "custom_model_data": 1021},
+        "model": "minecraft:item/johto/aipom"
+    },
+    {
+        "predicate": { "custom_model_data": 1022},
+        "model": "minecraft:item/johto/chinchou"
+    },
+    {
+        "predicate": { "custom_model_data": 1023},
+        "model": "minecraft:item/johto/entei"
+    },
+    {
+        "predicate": { "custom_model_data": 1024},
+        "model": "minecraft:item/johto/hooh"
+    },
+    {
+        "predicate": { "custom_model_data": 1025},
+        "model": "minecraft:item/johto/hoothoot"
+    },
+    {
+        "predicate": { "custom_model_data": 1026},
+        "model": "minecraft:item/johto/hoppip"
+    },
+    {
+        "predicate": { "custom_model_data": 1027},
+        "model": "minecraft:item/johto/ledyba"
+    },
+    {
+        "predicate": { "custom_model_data": 1028},
+        "model": "minecraft:item/johto/lugia"
+    },
+    {
+        "predicate": { "custom_model_data": 1029},
+        "model": "minecraft:item/johto/mareep"
+    },
+    {
+        "predicate": { "custom_model_data": 1030},
+        "model": "minecraft:item/johto/phanpy"
+    },
+    {
+        "predicate": { "custom_model_data": 1031},
+        "model": "minecraft:item/johto/raikou"
+    },
+    {
+        "predicate": { "custom_model_data": 1032},
+        "model": "minecraft:item/johto/sentret"
+    },
+    {
+        "predicate": { "custom_model_data": 1033},
+        "model": "minecraft:item/johto/slugma"
+    },
+    {
+        "predicate": { "custom_model_data": 1034},
+        "model": "minecraft:item/johto/spinarak"
+    },
+    {
+        "predicate": { "custom_model_data": 1035},
+        "model": "minecraft:item/johto/suicune"
+    },
+    {
+        "predicate": { "custom_model_data": 1036},
+        "model": "minecraft:item/johto/swinub"
+    },
+    {
+        "predicate": { "custom_model_data": 1037},
+        "model": "minecraft:item/johto/teddiursa"
+    },
+    {
+        "predicate": { "custom_model_data": 1038},
+        "model": "minecraft:item/johto/wooper"
+    },
+    {
+        "predicate": { "custom_model_data": 1039},
+        "model": "minecraft:item/hoeen/aron"
+    },
+    {
+        "predicate": { "custom_model_data": 1040},
+        "model": "minecraft:item/hoeen/electrike"
+    },
+    {
+        "predicate": { "custom_model_data": 1041},
+        "model": "minecraft:item/hoeen/groudon"
+    },
+    {
+        "predicate": { "custom_model_data": 1042},
+        "model": "minecraft:item/hoeen/kyogre"
+    },
+    {
+        "predicate": { "custom_model_data": 1043},
+        "model": "minecraft:item/hoeen/latias"
+    },
+    {
+        "predicate": { "custom_model_data": 1044},
+        "model": "minecraft:item/hoeen/latios"
+    },
+    {
+        "predicate": { "custom_model_data": 1045},
+        "model": "minecraft:item/hoeen/lotad"
+    },
+    {
+        "predicate": { "custom_model_data": 1046},
+        "model": "minecraft:item/hoeen/makuhita"
+    },
+    {
+        "predicate": { "custom_model_data": 1047},
+        "model": "minecraft:item/hoeen/numel"
+    },
+    {
+        "predicate": { "custom_model_data": 1048},
+        "model": "minecraft:item/hoeen/poochyena"
+    },
+    {
+        "predicate": { "custom_model_data": 1049},
+        "model": "minecraft:item/hoeen/rayquaza"
+    },
+    {
+        "predicate": { "custom_model_data": 1050},
+        "model": "minecraft:item/hoeen/regice"
+    },
+    {
+        "predicate": { "custom_model_data": 1051},
+        "model": "minecraft:item/hoeen/regirock"
+    },
+    {
+        "predicate": { "custom_model_data": 1052},
+        "model": "minecraft:item/hoeen/registeel"
+    },
+    {
+        "predicate": { "custom_model_data": 1053},
+        "model": "minecraft:item/hoeen/seedot"
+    },
+    {
+        "predicate": { "custom_model_data": 1054},
+        "model": "minecraft:item/hoeen/shroomish"
+    },
+    {
+        "predicate": { "custom_model_data": 1055},
+        "model": "minecraft:item/hoeen/spheal"
+    },
+    {
+        "predicate": { "custom_model_data": 1056},
+        "model": "minecraft:item/hoeen/taillow"
+    },
+    {
+        "predicate": { "custom_model_data": 1057},
+        "model": "minecraft:item/hoeen/trapinch"
+    },
+    {
+        "predicate": { "custom_model_data": 1058},
+        "model": "minecraft:item/hoeen/wingull"
+    },
+    {
+        "predicate": { "custom_model_data": 1059},
+        "model": "minecraft:item/hoeen/wurmple"
+    },
+    {
+        "predicate": { "custom_model_data": 1060},
+        "model": "minecraft:item/hoeen/zigzagoon"
+    },
+    {
+        "predicate": { "custom_model_data": 1061},
+        "model": "minecraft:item/sinooh/azelf"
+    },
+    {
+        "predicate": { "custom_model_data": 1062},
+        "model": "minecraft:item/sinooh/bidoof"
+    },
+    {
+        "predicate": { "custom_model_data": 1063},
+        "model": "minecraft:item/sinooh/budew"
+    },
+    {
+        "predicate": { "custom_model_data": 1064},
+        "model": "minecraft:item/sinooh/buizel"
+    },
+    {
+        "predicate": { "custom_model_data": 1065},
+        "model": "minecraft:item/sinooh/cranidos"
+    },
+    {
+        "predicate": { "custom_model_data": 1066},
+        "model": "minecraft:item/sinooh/cresselia"
+    },
+    {
+        "predicate": { "custom_model_data": 1067},
+        "model": "minecraft:item/sinooh/croagunk"
+    },
+    {
+        "predicate": { "custom_model_data": 1068},
+        "model": "minecraft:item/sinooh/dialga"
+    },
+    {
+        "predicate": { "custom_model_data": 1069},
+        "model": "minecraft:item/sinooh/drifloon"
+    },
+    {
+        "predicate": { "custom_model_data": 1070},
+        "model": "minecraft:item/sinooh/giratina"
+    },
+    {
+        "predicate": { "custom_model_data": 1071},
+        "model": "minecraft:item/sinooh/glameow"
+    },
+    {
+        "predicate": { "custom_model_data": 1072},
+        "model": "minecraft:item/sinooh/heatran"
+    },
+    {
+        "predicate": { "custom_model_data": 1073},
+        "model": "minecraft:item/sinooh/kricketot"
+    },
+    {
+        "predicate": { "custom_model_data": 1074},
+        "model": "minecraft:item/sinooh/mesprit"
+    },
+    {
+        "predicate": { "custom_model_data": 1075},
+        "model": "minecraft:item/sinooh/palkia"
+    },
+    {
+        "predicate": { "custom_model_data": 1076},
+        "model": "minecraft:item/sinooh/ponyta"
+    },
+    {
+        "predicate": { "custom_model_data": 1077},
+        "model": "minecraft:item/sinooh/shellos"
+    },
+    {
+        "predicate": { "custom_model_data": 1078},
+        "model": "minecraft:item/sinooh/shinx"
+    },
+    {
+        "predicate": { "custom_model_data": 1079},
+        "model": "minecraft:item/sinooh/snover"
+    },
+    {
+        "predicate": { "custom_model_data": 1080},
+        "model": "minecraft:item/sinooh/starly"
+    },
+    {
+        "predicate": { "custom_model_data": 1081},
+        "model": "minecraft:item/sinooh/uxie"
+    },
+    {
+        "predicate": { "custom_model_data": 1082},
+        "model": "minecraft:item/miticos/celebi"
+    },
+    {
+        "predicate": { "custom_model_data": 1083},
+        "model": "minecraft:item/miticos/darkrai"
+    },
+    {
+        "predicate": { "custom_model_data": 1084},
+        "model": "minecraft:item/miticos/deoxys"
+    },
+    {
+        "predicate": { "custom_model_data": 1085},
+        "model": "minecraft:item/miticos/diancie"
+    },
+    {
+        "predicate": { "custom_model_data": 1086},
+        "model": "minecraft:item/miticos/genesect"
+    },
+    {
+        "predicate": { "custom_model_data": 1087},
+        "model": "minecraft:item/miticos/hoopa"
+    },
+    {
+        "predicate": { "custom_model_data": 1088},
+        "model": "minecraft:item/miticos/jirachi"
+    },
+    {
+        "predicate": { "custom_model_data": 1089},
+        "model": "minecraft:item/miticos/keldeo"
+    },
+    {
+        "predicate": { "custom_model_data": 1090},
+        "model": "minecraft:item/miticos/magearna"
+    },
+    {
+        "predicate": { "custom_model_data": 1091},
+        "model": "minecraft:item/miticos/manaphy"
+    },
+    {
+        "predicate": { "custom_model_data": 1092},
+        "model": "minecraft:item/miticos/marshadow"
+    },
+    {
+        "predicate": { "custom_model_data": 1093},
+        "model": "minecraft:item/miticos/melmetal"
+    },
+    {
+        "predicate": { "custom_model_data": 1094},
+        "model": "minecraft:item/miticos/meloetta"
+    },
+    {
+        "predicate": { "custom_model_data": 1095},
+        "model": "minecraft:item/miticos/meltan"
+    },
+    {
+        "predicate": { "custom_model_data": 1096},
+        "model": "minecraft:item/miticos/pecharunt"
+    },
+    {
+        "predicate": { "custom_model_data": 1097},
+        "model": "minecraft:item/miticos/shaymin"
+    },
+    {
+        "predicate": { "custom_model_data": 1098},
+        "model": "minecraft:item/miticos/victini"
+    },
+    {
+        "predicate": { "custom_model_data": 1099},
+        "model": "minecraft:item/miticos/volcanion"
+    },
+    {
+        "predicate": { "custom_model_data": 1100},
+        "model": "minecraft:item/miticos/zarude"
+    },
+    {
+        "predicate": { "custom_model_data": 1101},
+        "model": "minecraft:item/miticos/zeraora"
+    },
+    {
+        "predicate": { "custom_model_data": 1102},
+        "model": "minecraft:item/teselia/basculin"
+    },
+    {
+        "predicate": { "custom_model_data": 1103},
+        "model": "minecraft:item/teselia/blitzle"
+    },
+    {
+        "predicate": { "custom_model_data": 1104},
+        "model": "minecraft:item/teselia/cottonee"
+    },
+    {
+        "predicate": { "custom_model_data": 1105},
+        "model": "minecraft:item/teselia/darumaka"
+    },
+    {
+        "predicate": { "custom_model_data": 1106},
+        "model": "minecraft:item/teselia/drilbur"
+    },
+    {
+        "predicate": { "custom_model_data": 1107},
+        "model": "minecraft:item/teselia/dwebble"
+    },
+    {
+        "predicate": { "custom_model_data": 1108},
+        "model": "minecraft:item/teselia/enamorus"
+    },
+    {
+        "predicate": { "custom_model_data": 1109},
+        "model": "minecraft:item/teselia/ferroseed"
+    },
+    {
+        "predicate": { "custom_model_data": 1110},
+        "model": "minecraft:item/teselia/gothita"
+    },
+    {
+        "predicate": { "custom_model_data": 1111},
+        "model": "minecraft:item/teselia/joltik"
+    },
+    {
+        "predicate": { "custom_model_data": 1112},
+        "model": "minecraft:item/teselia/kyurem"
+    },
+    {
+        "predicate": { "custom_model_data": 1113},
+        "model": "minecraft:item/teselia/landorus"
+    },
+    {
+        "predicate": { "custom_model_data": 1114},
+        "model": "minecraft:item/teselia/lillipup"
+    },
+    {
+        "predicate": { "custom_model_data": 1115},
+        "model": "minecraft:item/teselia/litwick"
+    },
+    {
+        "predicate": { "custom_model_data": 1116},
+        "model": "minecraft:item/teselia/minccino"
+    },
+    {
+        "predicate": { "custom_model_data": 1117},
+        "model": "minecraft:item/teselia/patrat"
+    },
+    {
+        "predicate": { "custom_model_data": 1118},
+        "model": "minecraft:item/teselia/petilil"
+    },
+    {
+        "predicate": { "custom_model_data": 1119},
+        "model": "minecraft:item/teselia/pudove"
+    },
+    {
+        "predicate": { "custom_model_data": 1120},
+        "model": "minecraft:item/teselia/purrloin"
+    },
+    {
+        "predicate": { "custom_model_data": 1121},
+        "model": "minecraft:item/teselia/reshiram"
+    },
+    {
+        "predicate": { "custom_model_data": 1122},
+        "model": "minecraft:item/teselia/roggenrola"
+    },
+    {
+        "predicate": { "custom_model_data": 1123},
+        "model": "minecraft:item/teselia/sandile"
+    },
+    {
+        "predicate": { "custom_model_data": 1124},
+        "model": "minecraft:item/teselia/scraggy"
+    },
+    {
+        "predicate": { "custom_model_data": 1125},
+        "model": "minecraft:item/teselia/solosis"
+    },
+    {
+        "predicate": { "custom_model_data": 1126},
+        "model": "minecraft:item/teselia/thundurus"
+    },
+    {
+        "predicate": { "custom_model_data": 1127},
+        "model": "minecraft:item/teselia/timburr"
+    },
+    {
+        "predicate": { "custom_model_data": 1128},
+        "model": "minecraft:item/teselia/tornadus"
+    },
+    {
+        "predicate": { "custom_model_data": 1129},
+        "model": "minecraft:item/teselia/trubbish"
+    },
+    {
+        "predicate": { "custom_model_data": 1130},
+        "model": "minecraft:item/teselia/tympole"
+    },
+    {
+        "predicate": { "custom_model_data": 1131},
+        "model": "minecraft:item/teselia/vanillite"
+    },
+    {
+        "predicate": { "custom_model_data": 1132},
+        "model": "minecraft:item/teselia/venipede"
+    },
+    {
+        "predicate": { "custom_model_data": 1133},
+        "model": "minecraft:item/teselia/woobat"
+    },
+    {
+        "predicate": { "custom_model_data": 1134},
+        "model": "minecraft:item/teselia/zekrom"
+    },
+    {
+        "predicate": { "custom_model_data": 1135},
+        "model": "minecraft:item/kalos/amaura"
+    },
+    {
+        "predicate": { "custom_model_data": 1136},
+        "model": "minecraft:item/kalos/bergmite"
+    },
+    {
+        "predicate": { "custom_model_data": 1137},
+        "model": "minecraft:item/kalos/bunnelby"
+    },
+    {
+        "predicate": { "custom_model_data": 1138},
+        "model": "minecraft:item/kalos/chespin"
+    },
+    {
+        "predicate": { "custom_model_data": 1139},
+        "model": "minecraft:item/kalos/clauncher"
+    },
+    {
+        "predicate": { "custom_model_data": 1140},
+        "model": "minecraft:item/kalos/dedenne"
+    },
+    {
+        "predicate": { "custom_model_data": 1141},
+        "model": "minecraft:item/kalos/diancie"
+    },
+    {
+        "predicate": { "custom_model_data": 1142},
+        "model": "minecraft:item/kalos/espurr"
+    },
+    {
+        "predicate": { "custom_model_data": 1143},
+        "model": "minecraft:item/kalos/fennekin"
+    },
+    {
+        "predicate": { "custom_model_data": 1144},
+        "model": "minecraft:item/kalos/flabebe"
+    },
+    {
+        "predicate": { "custom_model_data": 1145},
+        "model": "minecraft:item/kalos/fletchling"
+    },
+    {
+        "predicate": { "custom_model_data": 1146},
+        "model": "minecraft:item/kalos/froakie"
+    },
+    {
+        "predicate": { "custom_model_data": 1147},
+        "model": "minecraft:item/kalos/goomy"
+    },
+    {
+        "predicate": { "custom_model_data": 1148},
+        "model": "minecraft:item/kalos/hawlucha"
+    },
+    {
+        "predicate": { "custom_model_data": 1149},
+        "model": "minecraft:item/kalos/helioptile"
+    },
+    {
+        "predicate": { "custom_model_data": 1150},
+        "model": "minecraft:item/kalos/honedge"
+    },
+    {
+        "predicate": { "custom_model_data": 1151},
+        "model": "minecraft:item/kalos/hoopa"
+    },
+    {
+        "predicate": { "custom_model_data": 1152},
+        "model": "minecraft:item/kalos/inkay"
+    },
+    {
+        "predicate": { "custom_model_data": 1153},
+        "model": "minecraft:item/kalos/klefki"
+    },
+    {
+        "predicate": { "custom_model_data": 1154},
+        "model": "minecraft:item/kalos/litleo"
+    },
+    {
+        "predicate": { "custom_model_data": 1155},
+        "model": "minecraft:item/kalos/noibat"
+    },
+    {
+        "predicate": { "custom_model_data": 1156},
+        "model": "minecraft:item/kalos/pancham"
+    },
+    {
+        "predicate": { "custom_model_data": 1157},
+        "model": "minecraft:item/kalos/phantump"
+    },
+    {
+        "predicate": { "custom_model_data": 1158},
+        "model": "minecraft:item/kalos/pumpkaboo"
+    },
+    {
+        "predicate": { "custom_model_data": 1159},
+        "model": "minecraft:item/kalos/scatterbug"
+    },
+    {
+        "predicate": { "custom_model_data": 1160},
+        "model": "minecraft:item/kalos/skiddo"
+    },
+    {
+        "predicate": { "custom_model_data": 1161},
+        "model": "minecraft:item/kalos/skrelp"
+    },
+    {
+        "predicate": { "custom_model_data": 1162},
+        "model": "minecraft:item/kalos/spritzee"
+    },
+    {
+        "predicate": { "custom_model_data": 1163},
+        "model": "minecraft:item/kalos/swirlix"
+    },
+    {
+        "predicate": { "custom_model_data": 1164},
+        "model": "minecraft:item/kalos/tyrunt"
+    },
+    {
+        "predicate": { "custom_model_data": 1165},
+        "model": "minecraft:item/kalos/volcanion"
+    },
+    {
+        "predicate": { "custom_model_data": 1166},
+        "model": "minecraft:item/kalos/xerneas"
+    },
+    {
+        "predicate": { "custom_model_data": 1167},
+        "model": "minecraft:item/kalos/yveltal"
+    },
+    {
+        "predicate": { "custom_model_data": 1168},
+        "model": "minecraft:item/alola/bounsweet"
+    },
+    {
+        "predicate": { "custom_model_data": 1169},
+        "model": "minecraft:item/alola/cutiefly"
+    },
+    {
+        "predicate": { "custom_model_data": 1170},
+        "model": "minecraft:item/alola/dewpider"
+    },
+    {
+        "predicate": { "custom_model_data": 1171},
+        "model": "minecraft:item/alola/drampa"
+    },
+    {
+        "predicate": { "custom_model_data": 1172},
+        "model": "minecraft:item/alola/grubbin"
+    },
+    {
+        "predicate": { "custom_model_data": 1173},
+        "model": "minecraft:item/alola/komala"
+    },
+    {
+        "predicate": { "custom_model_data": 1174},
+        "model": "minecraft:item/alola/litten"
+    },
+    {
+        "predicate": { "custom_model_data": 1175},
+        "model": "minecraft:item/alola/lunala"
+    },
+    {
+        "predicate": { "custom_model_data": 1176},
+        "model": "minecraft:item/alola/mimikyu"
+    },
+    {
+        "predicate": { "custom_model_data": 1177},
+        "model": "minecraft:item/alola/minior"
+    },
+    {
+        "predicate": { "custom_model_data": 1178},
+        "model": "minecraft:item/alola/morelull"
+    },
+    {
+        "predicate": { "custom_model_data": 1179},
+        "model": "minecraft:item/alola/mudbray"
+    },
+    {
+        "predicate": { "custom_model_data": 1180},
+        "model": "minecraft:item/alola/oranguru"
+    },
+    {
+        "predicate": { "custom_model_data": 1181},
+        "model": "minecraft:item/alola/passimian"
+    },
+    {
+        "predicate": { "custom_model_data": 1182},
+        "model": "minecraft:item/alola/pikipek"
+    },
+    {
+        "predicate": { "custom_model_data": 1183},
+        "model": "minecraft:item/alola/popplio"
+    },
+    {
+        "predicate": { "custom_model_data": 1184},
+        "model": "minecraft:item/alola/pyukumuku"
+    },
+    {
+        "predicate": { "custom_model_data": 1185},
+        "model": "minecraft:item/alola/rockruff"
+    },
+    {
+        "predicate": { "custom_model_data": 1186},
+        "model": "minecraft:item/alola/rowlet"
+    },
+    {
+        "predicate": { "custom_model_data": 1187},
+        "model": "minecraft:item/alola/salandit"
+    },
+    {
+        "predicate": { "custom_model_data": 1188},
+        "model": "minecraft:item/alola/sandygast"
+    },
+    {
+        "predicate": { "custom_model_data": 1189},
+        "model": "minecraft:item/alola/solgaleo"
+    },
+    {
+        "predicate": { "custom_model_data": 1190},
+        "model": "minecraft:item/alola/stufful"
+    },
+    {
+        "predicate": { "custom_model_data": 1191},
+        "model": "minecraft:item/alola/tapubulu"
+    },
+    {
+        "predicate": { "custom_model_data": 1192},
+        "model": "minecraft:item/alola/tapufini"
+    },
+    {
+        "predicate": { "custom_model_data": 1193},
+        "model": "minecraft:item/alola/tapukoko"
+    },
+    {
+        "predicate": { "custom_model_data": 1194},
+        "model": "minecraft:item/alola/tapulele"
+    },
+    {
+        "predicate": { "custom_model_data": 1195},
+        "model": "minecraft:item/alola/turtonator"
+    },
+    {
+        "predicate": { "custom_model_data": 1196},
+        "model": "minecraft:item/alola/wimpod"
+    },
+    {
+        "predicate": { "custom_model_data": 1197},
+        "model": "minecraft:item/alola/yungoos"
+    },
+    {
+        "predicate": { "custom_model_data": 1198},
+        "model": "minecraft:item/galar/applin"
+    },
+    {
+        "predicate": { "custom_model_data": 1199},
+        "model": "minecraft:item/galar/arrokuda"
+    },
+    {
+        "predicate": { "custom_model_data": 1200},
+        "model": "minecraft:item/galar/blipbug"
+    },
+    {
+        "predicate": { "custom_model_data": 1201},
+        "model": "minecraft:item/galar/calyrex"
+    },
+    {
+        "predicate": { "custom_model_data": 1202},
+        "model": "minecraft:item/galar/chewtle"
+    },
+    {
+        "predicate": { "custom_model_data": 1203},
+        "model": "minecraft:item/galar/clobbopus"
+    },
+    {
+        "predicate": { "custom_model_data": 1204},
+        "model": "minecraft:item/galar/cufant"
+    },
+    {
+        "predicate": { "custom_model_data": 1205},
+        "model": "minecraft:item/galar/dreepy"
+    },
+    {
+        "predicate": { "custom_model_data": 1206},
+        "model": "minecraft:item/galar/eiscue"
+    },
+    {
+        "predicate": { "custom_model_data": 1207},
+        "model": "minecraft:item/galar/falinks"
+    },
+    {
+        "predicate": { "custom_model_data": 1208},
+        "model": "minecraft:item/galar/glastrier"
+    },
+    {
+        "predicate": { "custom_model_data": 1209},
+        "model": "minecraft:item/galar/gossifleur"
+    },
+    {
+        "predicate": { "custom_model_data": 1210},
+        "model": "minecraft:item/galar/hatenna"
+    },
+    {
+        "predicate": { "custom_model_data": 1211},
+        "model": "minecraft:item/galar/impidimp"
+    },
+    {
+        "predicate": { "custom_model_data": 1212},
+        "model": "minecraft:item/galar/milcery"
+    },
+    {
+        "predicate": { "custom_model_data": 1213},
+        "model": "minecraft:item/galar/morpeko"
+    },
+    {
+        "predicate": { "custom_model_data": 1214},
+        "model": "minecraft:item/galar/nickit"
+    },
+    {
+        "predicate": { "custom_model_data": 1215},
+        "model": "minecraft:item/galar/pincurchin"
+    },
+    {
+        "predicate": { "custom_model_data": 1216},
+        "model": "minecraft:item/galar/rolycoly"
+    },
+    {
+        "predicate": { "custom_model_data": 1217},
+        "model": "minecraft:item/galar/rookidee"
+    },
+    {
+        "predicate": { "custom_model_data": 1218},
+        "model": "minecraft:item/galar/sinistea"
+    },
+    {
+        "predicate": { "custom_model_data": 1219},
+        "model": "minecraft:item/galar/sizzlipede"
+    },
+    {
+        "predicate": { "custom_model_data": 1220},
+        "model": "minecraft:item/galar/skwovet"
+    },
+    {
+        "predicate": { "custom_model_data": 1221},
+        "model": "minecraft:item/galar/spectrier"
+    },
+    {
+        "predicate": { "custom_model_data": 1222},
+        "model": "minecraft:item/galar/stonjourner"
+    },
+    {
+        "predicate": { "custom_model_data": 1223},
+        "model": "minecraft:item/galar/toxel"
+    },
+    {
+        "predicate": { "custom_model_data": 1224},
+        "model": "minecraft:item/galar/wooloo"
+    },
+    {
+        "predicate": { "custom_model_data": 1225},
+        "model": "minecraft:item/galar/yamper"
+    },
+    {
+        "predicate": { "custom_model_data": 1226},
+        "model": "minecraft:item/galar/zacian"
+    },
+    {
+        "predicate": { "custom_model_data": 1227},
+        "model": "minecraft:item/galar/zamazenta"
+    },
+    {
+        "predicate": { "custom_model_data": 1228},
+        "model": "minecraft:item/galar/zarude"
+    },
+    {
+        "predicate": { "custom_model_data": 1229},
+        "model": "minecraft:item/galar/zigzagoon_galarian"
+    },
+    {
+        "predicate": { "custom_model_data": 1230},
+        "model": "minecraft:item/pasadosyfuturos/brutebonnet"
+    },
+    {
+        "predicate": { "custom_model_data": 1231},
+        "model": "minecraft:item/pasadosyfuturos/fluttermane"
+    },
+    {
+        "predicate": { "custom_model_data": 1232},
+        "model": "minecraft:item/pasadosyfuturos/gougingfire"
+    },
+    {
+        "predicate": { "custom_model_data": 1233},
+        "model": "minecraft:item/pasadosyfuturos/greattusk"
+    },
+    {
+        "predicate": { "custom_model_data": 1234},
+        "model": "minecraft:item/pasadosyfuturos/ironbulder"
+    },
+    {
+        "predicate": { "custom_model_data": 1235},
+        "model": "minecraft:item/pasadosyfuturos/ironbundle"
+    },
+    {
+        "predicate": { "custom_model_data": 1236},
+        "model": "minecraft:item/pasadosyfuturos/ironcrown"
+    },
+    {
+        "predicate": { "custom_model_data": 1237},
+        "model": "minecraft:item/pasadosyfuturos/ironhands"
+    },
+    {
+        "predicate": { "custom_model_data": 1238},
+        "model": "minecraft:item/pasadosyfuturos/ironjugulis"
+    },
+    {
+        "predicate": { "custom_model_data": 1239},
+        "model": "minecraft:item/pasadosyfuturos/ironleaves"
+    },
+    {
+        "predicate": { "custom_model_data": 1240},
+        "model": "minecraft:item/pasadosyfuturos/ironmoth"
+    },
+    {
+        "predicate": { "custom_model_data": 1241},
+        "model": "minecraft:item/pasadosyfuturos/ironthorns"
+    },
+    {
+        "predicate": { "custom_model_data": 1242},
+        "model": "minecraft:item/pasadosyfuturos/irontreads"
+    },
+    {
+        "predicate": { "custom_model_data": 1243},
+        "model": "minecraft:item/pasadosyfuturos/ironvaliant"
+    },
+    {
+        "predicate": { "custom_model_data": 1244},
+        "model": "minecraft:item/pasadosyfuturos/ragingbolt"
+    },
+    {
+        "predicate": { "custom_model_data": 1245},
+        "model": "minecraft:item/pasadosyfuturos/roaringmoon"
+    },
+    {
+        "predicate": { "custom_model_data": 1246},
+        "model": "minecraft:item/pasadosyfuturos/sandyshocks"
+    },
+    {
+        "predicate": { "custom_model_data": 1247},
+        "model": "minecraft:item/pasadosyfuturos/screamtail"
+    },
+    {
+        "predicate": { "custom_model_data": 1248},
+        "model": "minecraft:item/pasadosyfuturos/slitherwing"
+    },
+    {
+        "predicate": { "custom_model_data": 1249},
+        "model": "minecraft:item/pasadosyfuturos/walkingwake"
+    },
+    {
+        "predicate": { "custom_model_data": 1250},
+        "model": "minecraft:item/shinysvip/aegislash_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1251},
+        "model": "minecraft:item/shinysvip/azumarill_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1252},
+        "model": "minecraft:item/shinysvip/baxcalibur_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1253},
+        "model": "minecraft:item/shinysvip/breloom_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1254},
+        "model": "minecraft:item/shinysvip/conkeldurr_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1255},
+        "model": "minecraft:item/shinysvip/corvilknight_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1256},
+        "model": "minecraft:item/shinysvip/dragapult_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1257},
+        "model": "minecraft:item/shinysvip/dragonite_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1258},
+        "model": "minecraft:item/shinysvip/excadrill_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1259},
+        "model": "minecraft:item/shinysvip/garchomp_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1260},
+        "model": "minecraft:item/shinysvip/gliscor_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1261},
+        "model": "minecraft:item/shinysvip/greninja_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1262},
+        "model": "minecraft:item/shinysvip/gyarados_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1263},
+        "model": "minecraft:item/shinysvip/hydreigon_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1264},
+        "model": "minecraft:item/shinysvip/kingambit_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1265},
+        "model": "minecraft:item/shinysvip/metagross_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1266},
+        "model": "minecraft:item/shinysvip/mimikyu_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1267},
+        "model": "minecraft:item/shinysvip/rotomwash_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1268},
+        "model": "minecraft:item/shinysvip/salamence_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1269},
+        "model": "minecraft:item/shinysvip/scizor_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1270},
+        "model": "minecraft:item/shinysvip/toxapex_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1271},
+        "model": "minecraft:item/shinysvip/tryranitar_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1272},
+        "model": "minecraft:item/shinysvip/volcarona_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1273},
+        "model": "minecraft:item/shinysvip/weavile_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1274},
+        "model": "minecraft:item/legendariosvip/cresselia_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1275},
+        "model": "minecraft:item/legendariosvip/dialga_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1276},
+        "model": "minecraft:item/legendariosvip/eternatus_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1277},
+        "model": "minecraft:item/legendariosvip/giratina_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1278},
+        "model": "minecraft:item/legendariosvip/groudon_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1279},
+        "model": "minecraft:item/legendariosvip/heatran_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1280},
+        "model": "minecraft:item/legendariosvip/hooh_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1281},
+        "model": "minecraft:item/legendariosvip/kyogre_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1282},
+        "model": "minecraft:item/legendariosvip/kyurem_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1283},
+        "model": "minecraft:item/legendariosvip/landorus_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1284},
+        "model": "minecraft:item/legendariosvip/latias_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1285},
+        "model": "minecraft:item/legendariosvip/latios_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1286},
+        "model": "minecraft:item/legendariosvip/lugia_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1287},
+        "model": "minecraft:item/legendariosvip/lunala_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1288},
+        "model": "minecraft:item/legendariosvip/mewtwo_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1289},
+        "model": "minecraft:item/legendariosvip/necrozma_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1290},
+        "model": "minecraft:item/legendariosvip/palkia_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1291},
+        "model": "minecraft:item/legendariosvip/rayquaza_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1292},
+        "model": "minecraft:item/legendariosvip/regigigas_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1293},
+        "model": "minecraft:item/legendariosvip/reshiram_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1294},
+        "model": "minecraft:item/legendariosvip/solgaleo_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1295},
+        "model": "minecraft:item/legendariosvip/thundurus_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1296},
+        "model": "minecraft:item/legendariosvip/tornadus_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1297},
+        "model": "minecraft:item/legendariosvip/xerneas_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1298},
+        "model": "minecraft:item/legendariosvip/yveltal_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1299},
+        "model": "minecraft:item/legendariosvip/zacian_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1300},
+        "model": "minecraft:item/legendariosvip/zamazenta_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1301},
+        "model": "minecraft:item/legendariosvip/zekrom_shiny"
+    }
+  ]
+}
