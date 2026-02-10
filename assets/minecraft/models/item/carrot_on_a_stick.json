@@ -1207,6 +1207,126 @@
     {
         "predicate": { "custom_model_data": 1301},
         "model": "minecraft:item/legendariosvip/zekrom_shiny"
+    },
+    {
+        "predicate": { "custom_model_data": 1302},
+        "model": "minecraft:item/paldea/bombirdier"
+    },
+    {
+        "predicate": { "custom_model_data": 1303},
+        "model": "minecraft:item/paldea/bramblin"
+    },
+    {
+        "predicate": { "custom_model_data": 1304},
+        "model": "minecraft:item/paldea/capsakid"
+    },
+    {
+        "predicate": { "custom_model_data": 1305},
+        "model": "minecraft:item/paldea/cetoddle"
+    },
+    {
+        "predicate": { "custom_model_data": 1306},
+        "model": "minecraft:item/paldea/charcadet"
+    },
+    {
+        "predicate": { "custom_model_data": 1307},
+        "model": "minecraft:item/paldea/cyclizar"
+    },
+    {
+        "predicate": { "custom_model_data": 1308},
+        "model": "minecraft:item/paldea/fezandipiti"
+    },
+    {
+        "predicate": { "custom_model_data": 1309},
+        "model": "minecraft:item/paldea/fidough"
+    },
+    {
+        "predicate": { "custom_model_data": 1310},
+        "model": "minecraft:item/paldea/finizen"
+    },
+    {
+        "predicate": { "custom_model_data": 1311},
+        "model": "minecraft:item/paldea/flamigo"
+    },
+    {
+        "predicate": { "custom_model_data": 1312},
+        "model": "minecraft:item/paldea/greavard"
+    },
+    {
+        "predicate": { "custom_model_data": 1313},
+        "model": "minecraft:item/paldea/klawf"
+    },
+    {
+        "predicate": { "custom_model_data": 1314},
+        "model": "minecraft:item/paldea/koraidon"
+    },
+    {
+        "predicate": { "custom_model_data": 1315},
+        "model": "minecraft:item/paldea/lechonk"
+    },
+    {
+        "predicate": { "custom_model_data": 1316},
+        "model": "minecraft:item/paldea/miraidon"
+    },
+    {
+        "predicate": { "custom_model_data": 1317},
+        "model": "minecraft:item/paldea/munkidori"
+    },
+    {
+        "predicate": { "custom_model_data": 1318},
+        "model": "minecraft:item/paldea/nacli"
+    },
+    {
+        "predicate": { "custom_model_data": 1319},
+        "model": "minecraft:item/paldea/nymble"
+    },
+    {
+        "predicate": { "custom_model_data": 1320},
+        "model": "minecraft:item/paldea/okidogi"
+    },
+    {
+        "predicate": { "custom_model_data": 1321},
+        "model": "minecraft:item/paldea/orthworm"
+    },
+    {
+        "predicate": { "custom_model_data": 1322},
+        "model": "minecraft:item/paldea/pawmi"
+    },
+    {
+        "predicate": { "custom_model_data": 1323},
+        "model": "minecraft:item/paldea/shroodle"
+    },
+    {
+        "predicate": { "custom_model_data": 1324},
+        "model": "minecraft:item/paldea/smoliv"
+    },
+    {
+        "predicate": { "custom_model_data": 1325},
+        "model": "minecraft:item/paldea/tadbulb"
+    },
+    {
+        "predicate": { "custom_model_data": 1326},
+        "model": "minecraft:item/paldea/tarountula"
+    },
+    {
+        "predicate": { "custom_model_data": 1327},
+        "model": "minecraft:item/paldea/tinkatink"
+    },
+    {
+        "predicate": { "custom_model_data": 1328},
+        "model": "minecraft:item/paldea/toedscool"
+    },
+    {
+        "predicate": { "custom_model_data": 1329},
+        "model": "minecraft:item/paldea/varoom"
+    },
+    {
+        "predicate": { "custom_model_data": 1330},
+        "model": "minecraft:item/paldea/wattrel"
+    },
+    {
+        "predicate": { "custom_model_data": 1331},
+        "model": "minecraft:item/paldea/wiglett"
     }
   ]
 }
